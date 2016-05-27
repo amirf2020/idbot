@@ -8,7 +8,7 @@ dofile('utilities.lua')
 ----config----
 local bot_api_key = "" 222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs
 
-local You = 188548712  196560568
+local You =196560568
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = ""
 local start = [[ ]]
