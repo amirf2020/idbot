@@ -6,7 +6,7 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 dofile('utilities.lua')
 ----config----
-local bot_api_key = "" 222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs
+local bot_api_key = 222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs
 
 local You =196560568
 local BASE_URL = "http://telegram.me/tell_pm_bott"..222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs
