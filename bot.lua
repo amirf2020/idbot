@@ -9,7 +9,8 @@ dofile('utilities.lua')
 local bot_api_key = "" 222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs
 
 local You =196560568
-local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
+local BASE_URL = "http://telegram.me/tell_pm_bott"..222508412:AAFyRDEgz4_aCZUhOwdDkGCQjst_bAiLWVs
+
 local BASE_FOLDER = ""
 local start = [[ ]]
 
